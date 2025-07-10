@@ -146,11 +146,11 @@ Welcome to Attendance Management System
 
 
 
-<dependencies>
+                   <dependencies>
 
 &nbsp;   <!-- PostgreSQL JDBC Driver -->
 
-&nbsp;   <dependency>
+&nbsp;           <dependency>
 
 &nbsp;       <groupId>org.postgresql</groupId>
 
@@ -158,7 +158,7 @@ Welcome to Attendance Management System
 
 &nbsp;       <version>42.7.2</version>
 
-&nbsp;   </dependency>
+&nbsp;               </dependency>
 
 </dependencies>
 
