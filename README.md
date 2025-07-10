@@ -136,42 +136,19 @@ Welcome to Attendance Management System
 
 1\. View My Attendance
 
-
-
 2\. Logout
 
-
-
 ✅ PostgreSQL JDBC Maven Dependency
+<dependency>
+  <groupId>org.postgresql</groupId>
+  <artifactId>postgresql</artifactId>
+  <version>42.7.3</version> <!-- or latest -->
+</dependency>
 
 
-
-                   <dependencies>
-
-&nbsp;   <!-- PostgreSQL JDBC Driver -->
-
-&nbsp;           <dependency>
-
-&nbsp;       <groupId>org.postgresql</groupId>
-
-&nbsp;       <artifactId>PostgreSQL</artifactId>
-
-&nbsp;       <version>42.7.2</version>
-
-&nbsp;               </dependency>
-
-</dependencies>
-
-
-
-###### 👨‍💻 Author
-
-
+ 👨‍💻 Author
 
 GitHub: Samiksha  Bhujbal
-
-
-
 Email: samikshabhujabal@gmail.com
 
 
