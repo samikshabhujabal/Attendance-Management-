@@ -142,14 +142,14 @@ Welcome to Attendance Management System
 
 
 Use the console menu to:
-$ java AttendanceApp
 
---- Attendance Menu ---
-       1. Add student
-       2. List students
-       3. Mark today’s attendance
-       4. View attendance by date
-       5. Exit
+
+   --- Attendance Menu ---
+         1. Add student
+        2. List students
+        3. Mark today’s attendance
+        4. View attendance by date
+        5. Exit
 
 
 
